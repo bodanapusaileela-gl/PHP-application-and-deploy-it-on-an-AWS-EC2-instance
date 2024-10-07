@@ -1,9 +1,9 @@
 // config.php
 <?php
-$host = 'database-1.cx00i4aysrgy.ap-southeast-1.rds.amazonaws.com';
+$host = 'database-1.cbmao0i2qe05.ap-south-1.rds.amazonaws.com';
 $db   = 'database-1';
 $user = 'admin';
-$pass = 'Naveen@0414';
+$pass = 'saileela123';
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
